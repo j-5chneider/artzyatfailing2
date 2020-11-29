@@ -33,6 +33,7 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 - An easy way to modify the theme with Hugo tooling
 - Fully responsive
 - Support for social icons
+- Support for sharing buttons
 
 
 ## How to start
@@ -68,13 +69,16 @@ paginate     = 10
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
   homeSubtitle = "A simple and beautiful blog"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"

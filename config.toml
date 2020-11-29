@@ -112,6 +112,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url  = "https://twitter.com/artzyatfailing2"
 
   [[params.social]]
+    name = "researchgate"
+    url  = "https://www.researchgate.net/profile/Juergen_Schneider9"
+
+  [[params.social]]
+    name = "googlescholar"
+    url  = "https://scholar.google.de/citations?user=voRmUe4AAAAJ&hl=en"
+
+  [[params.social]]
     name = "github"
     url  = "https://github.com/j-5chneider"
 
@@ -125,16 +133,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "News & Blog"
     url        = "posts/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "research"
+    name       = "Research"
+    url        = "research/"
+    weight     = 2
   [[menu.main]]
     identifier = "publications"
     name       = "Publications"
     url        = "publications/"
+    weight     = 3
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = 4
     
 [markup.goldmark.renderer]
   unsafe= true
