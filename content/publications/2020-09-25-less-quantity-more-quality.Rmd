@@ -1,0 +1,27 @@
+---
+title: Less quantity, more quality? Student teachers’ analyses of classroom videos
+  and the influence of problem-based and direct instructional teaching approaches
+author: Jürgen Schneider
+date: '2020-09-25'
+slug: less-quantity-more-quality
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Jürgen Schneider
+* Marc Kleinknecht
+* Thorsten Bohl
+* Sebastian Kuntze
+* Markus Rehm
+* Marcus Syring
+
+### Abstract
+
+This paper investigates the effects of different case-based learning approaches (problem-based vs. direct instructional) and the instructors’ attitude on student teachers’ analyses of classroom management. We assigned 638 student teachers from 21 identical professional development courses to one of the two case-based learning conditions. Student teachers’ analyses were evaluated on selective attention, reflective thought, and theory-practice integrations in a pre-post-design. We found evidence for equivalent effects of the instructional approaches on all dependet variables using a Bayesian approach. Further, the instructors’ positive attitude toward the learning approach was positively related to more theory-practice integrations in the students’ analyses.
+
+### Paper
+The paper is submitted to a journal and currently under peer-review. As we don't know if we have to submit the manuscript to another journal with more restrictive preprint policies, we haven't uploaded a preprint yet. __Please reach out to get a preprint per [mail](mailto:juergen.schneider@uni-tuebingen.de)!__

@@ -1,4 +1,5 @@
 baseURL = "https://jschn.org"
+relativeURLs = true
 title   = ""
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
@@ -22,7 +23,7 @@ publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
-canonifyURLs = true
+canonifyURLs = false
 
 enableRobotsTXT = true
 enableGitInfo   = false
@@ -45,10 +46,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [blackfriday]
   hrefTargetBlank = true
 
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+# [taxonomies]
+#   tag      = "tags"
+#   category = "categories"
+#   series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -68,6 +69,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
+  
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -89,6 +98,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     theme = "#252627"
 
   [params.logo]
+    logoMark     = ">"
     logoText     = " ~home"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
@@ -100,7 +110,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.portrait]
     path = "/img/its-a-me_smol.png"  # "/img/image.png"
-    alt = "it's-a-me"
+    alt = "picture of it's-a-me"
+    MaxWidth = "40%"
+
 
   # Social icons
   [[params.social]]
@@ -119,6 +131,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "googlescholar"
     url  = "https://scholar.google.de/citations?user=voRmUe4AAAAJ&hl=en"
 
+  [[params.social]]
+    name = "orcid"
+    url  = "https://orcid.org/0000-0002-3772-4198"
+  
   [[params.social]]
     name = "github"
     url  = "https://github.com/j-5chneider"
@@ -146,11 +162,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name       = "Publications"
     url        = "publications/"
     weight     = 3
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-    weight     = 4
-    
+
+
 [markup.goldmark.renderer]
   unsafe= true

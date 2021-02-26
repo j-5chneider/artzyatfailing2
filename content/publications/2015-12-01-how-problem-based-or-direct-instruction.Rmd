@@ -1,0 +1,36 @@
+---
+title: 'How problem-based or direct instructional case-based learning environments
+  influence pre-service teachers'' cognitive load, motivation and emotions: A quasi-experimental
+  intervention study in teacher education.'
+author: Jürgen Schneider
+date: '2015-12-01'
+slug: how-problem-based-or-direct-instruction
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Marcus Syring
+* Marc Kleinknecht
+* Thorsten Bohl
+* Sebastian Kuntze
+* Markus Rehm
+* Jürgen Schneider
+
+
+### Abstract
+
+This study examines the effects of “problem-based”(PBL) and “direct instructional”(DI) case-based learning on secondary  school  pre-service  teachers’(n=641)  cognitive  load  and  motivational  and  emotional  factors during the learning process and addresses the inter-relationships. Topic of  the case-based environments was classroom-management.  The  results  showed  that  the students  feel greater  immersion  and increased  pleasure in  the  PBL  courses.DI  courses  are  also  motivating  and  they  reveal a  higher  level  of  anger  among  the students.In  both  groups,  similar interrelationships  between  cognitive  load,  motivation,  and  emotion  were found.Our findings show that case-based learning is effective in both environments but it is better suited to PBL courses.
+
+### Access to Paper
+
+[Link to the PDF](http://jehdnet.com/journals/jehd/Vol_4_No_4_December_2015/14.pdf).
+
+
+### Citation
+
+Syring, M., Kleinknecht, M., Bohl, T., Kuntze, S., Rehm, M., & Schneider, J. (2016). How problem-based or direct instructional case-based learning environments influence pre-service teachers’ cognitive load, motivation and emotions: A quasi-experimental intervention study in teacher education. _Journal of Education and Human Development, 4_(4), 115–129. https://doi.org/10.15640/jehd.v4n4a14
+

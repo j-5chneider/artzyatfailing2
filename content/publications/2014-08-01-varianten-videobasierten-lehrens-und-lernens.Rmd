@@ -1,0 +1,31 @@
+---
+title: Varianten videobasierten Lehrens und Lernens in der Lehrpersonenaus- und -fortbildung
+  – Empirische Befunde und didaktische Empfehlungen zum Einsatz unterschiedlicher
+  Lehr-Lern-Konzepte und Videotypen
+author: Jürgen Schneider
+date: '2014-08-01'
+slug: varianten-videobasierten-lehrens-und-lernens
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+
+### Authors
+
+* Marc Kleinknecht
+* Jürgen Schneider
+* Marcus Syring
+
+### Abstract
+
+Unterrichtsvideos sind zu einem vielfach verwendeten Lern- und Reflexionsmedium in der Lehrpersonenaus- und -fortbildung geworden, wobei aktuelle Projekte unterschiedliche Ziele verfolgen und die didaktisch-methodischen Ansätze variantenreich sind. Der Beitrag fokussiert die Förderung der Wahrnehmungs- und Analysekompetenz durch Unterrichtsvideos und präsentiert Forschungsbefunde zu instruktionalen und problembasierten Lehr-Lern-Konzepten sowie zum Einsatz der Videotypen «eigenes Unterrichtsvideo» und «fremdes Unterrichtsvideo». Dabei wird besonders darauf eingegangen, wie emotional-motivationale Prozesse die Analyse von Unterrichtsvideos beeinflussen. Auf der Basis der Befunde werden vier Empfehlungen für die Planung videobasierter Seminare in der Lehrpersonenaus- und -fortbildung formuliert.
+
+### Access to Paper
+
+[Link to PDF](https://www.pedocs.de/volltexte/2017/13866/pdf/BZL_2014_2_210_220.pdf).
+
+### Citation
+
+Kleinknecht, M., Schneider, J., & Syring, M. (2014). Varianten videobasierten Lehrens und Lernens in der Lehrpersonenaus- und -fortbildung – Empirische Befunde und didaktische Empfehlungen zum Einsatz unterschiedlicher Lehr-Lern-Konzepte und Videotypen. _Beiträge zur Lehrerinnen- und Lehrerbildung, 32_(2), 210–220.

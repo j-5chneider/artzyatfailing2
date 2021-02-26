@@ -1,0 +1,34 @@
+---
+title: 'Fallarbeit als Angebot - Fallbasiertes Lernen als Nutzung: Empirische Ergebnisse
+  zur kognitiven Belastung, Motivation und Emotionen bei der Arbeit mit Unterrichtsfällen'
+author: Jürgen Schneider
+date: '2016-02-01'
+slug: fallarbeit-als-angebot
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+
+### Authors
+
+* Marcus Syring
+* Thorsten Bohl
+* Marc Kleinknecht
+* Sebastian Kuntze
+* Markus Rehm
+* Jürgen Schneider
+
+### Abstract
+
+In diesem Beitrag werden Teile des Angebot-Nutzungs-Modells verwendet, um Lehr-Lernzusammenhänge in fallbasierten Hochschulseminaren der Lehrerbildung theoretisch zu konzeptualisieren. Auf der Angebotsseite werden mittels einer theoretischen Verortung Konzepte und Prinzipien der Arbeit mit Unterrichtsfällen beschrieben. Anhand von empirischen Daten werden auf der Nutzungsseite Wirkungs-zusammenhänge unterschiedlicher Lehr-Lern-Modelle und Fallmedien auf kognitive Be-lastung, Motivation und Emotionen beim Lernen mit Fällen untersucht. Die Ergebnisse zeigen, dass sich je nach Schwerpunktsetzung alle vier untersuchten Formen der Fallar-beit für Novizen eignen. Abschließend werden auf Basis der theoretischen Überlegungen und empirischen Befunde erste Konsequenzen für eine Hochschuldidaktik der Fallarbeit diskutiert.
+
+### Access to Paper
+
+[Link zum PDF](https://www.pedocs.de/volltexte/2019/16707/pdf/ZfPaed_2016_1_Syring_et_al_Fallarbeit_als_Angebot.pdf).
+
+
+### Citation
+
+Syring, M., Bohl, T., Kleinknecht, M., Kuntze, S., Rehm, M., & Schneider, J. (2016). Fallarbeit als Angebot—Fallbasiertes Lernen als Nutzung. Empirische Ergebnisse zur kognitiven Belastung, Motivation und Emotionen bei der Arbeit mit Unterrichtsfällen. _Zeitschrift für Pädagogik, 62_(1), 86–108.

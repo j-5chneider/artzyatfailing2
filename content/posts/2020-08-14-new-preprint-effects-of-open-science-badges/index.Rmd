@@ -1,0 +1,25 @@
+---
+title: 'New Preprint: Effects of Open Science Badges on Trust in Scientists'
+author: Jürgen Schneider
+date: '2020-08-14'
+slug: new-preprint-effects-of-open-science-badges
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+
+### Access
+
+Check out the [preprint on PsyArXiv](https://doi.org/10.31234/osf.io/43ec2) or the [project on the Open Science Framework](http://doi.org/10.17605/OSF.IO/VGBRS)!
+
+### Abstract
+
+The Replication Crisis diminishes trust in empirical sciences and with it the perceived value of science (Lupia, 2018). Open Science Practices (i.a. open data, open analysis script, open materials) are an increasingly popular approach to deal with challenges in replication and to rebuilt trust (Geukes, Schönbrodt, Utesch, Geukes, & Back, 2016). First investigations could, however, deliver no evidence toward the effects of Open Science Practices (OSP) on trustworthiness (Wingen, Berkessel, & Englich, 2019). The study investigated the effect on a discipline level (psychology) with an abstract description of OSP. Within the ongoing discussion about incentives for OSP (e.g. badges), we want to shift the focus from discipline level to concrete individual journal articles and consider epistemic beliefs of readers to play a moderating role (Merk & Rosman, 2018): Will visible OSP (vs. not visible vs. visibly non-OSP) foster perceived trustworthiness when reading journal articles of empirical studies? Will multiplistic epistemic beliefs moderate the relationship between OSP and trustworthiness?
+
+The design will include three conditions: visible Open Science Practices (visOSP), Practices not visible (nonvis) and visible non-Open Science Practices (nonOSP). Two of the conditions are randomized within person. Realizing all three conditions within person would highlight the variation between conditions as too obvious and thus undermine blinding of subjects.
+visOSP condition: Subjects receive a title page of an empirical study (Title, Abstract, Keywords, Introduction, ...) together with three Open Science badges. The badges are explained using hints in style of speech bubbles and indicate that the authors engaged in the OSP open data, open analysis script and open materials.
+nonvis condition: Subjects receive a title page of an empirical study (Title, Abstract, Keywords, Introduction, ...) with no further information on Open Science, reflecting a "standard" journal article.
+nonOSP condition: Subjects receive a title page of an empirical study (Title, Abstract, Keywords, Introduction, ...) together with three Open Science badges. The badges are explained using hints in style of speech bubbles and indicate that the authors did not engage in the OSP open data, open analysis script and open materials. As participants are exposed to more than one condition, we create all three conditions for three different empirical studies (topics). This way we avoid participants to see one study topic twice under different conditions, which would undermine the blinding.
+Measured variables are perceives trustworthiness: We apply the Muenster Epistemic Trustworthiness Inventory (Hendriks, Kienhues, & Bromme, 2015) with all three subscales. However, as dependent variable we will only employ the subscale integrity. The other two subscales are used for further exploratory analyses. Topic-specific multiplism: We apply the subscale of topic specific multiplism from Merk et al. (2017) Topic-specific consistency: We apply the three item-measure from Merk et al. (2017), Treatment check: We test the perceived openness/ transparency of the empirical study. Additional small set of demographic variables will be assessed.

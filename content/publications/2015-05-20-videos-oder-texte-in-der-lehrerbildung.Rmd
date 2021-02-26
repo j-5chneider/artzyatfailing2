@@ -1,0 +1,34 @@
+---
+title: Videos oder Texte in der Lehrerbildung? Effekte unterschiedlicher Medien auf
+  die kognitive Belastung und die motivational-emotionalen Prozesse beim Lernen mit
+  Fällen
+author: Jürgen Schneider
+date: '2015-05-20'
+slug: videos-oder-texte-in-der-lehrerbildung
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+
+### Authors
+
+* Marcus Syring
+* Thorsten Bohl
+* Marc Kleinknecht
+* Sebastian Kuntze
+* Markus Rehm
+* Jürgen Schneider
+
+### Abstract
+
+Die Arbeit untersucht die Effekte der beiden Medien Video und Text bei der Arbeit mit Unterrichtsfällen im Lehramtsstudium auf die kognitive Belastung und die motivational-emotionalen Prozesse beim Lernen und geht zusätzlich der Frage nach, ob Zusammenhänge zwischen kognitiven und nicht-kognitiven Prozessen bestehen. In der Studie wurden 21 curricular gleiche und parallel stattfindende Seminare fallbasiert gestaltet und auf die Bedingungen „Video“ oder „Text“ verteilt. Zusätzlich wurde eine Kontrollgruppe ohne Fallarbeit untersucht. Die an der Studie teilnehmenden N=680 Lehramtsstudierenden wurden innerhalb von zwei fallbasierten Sitzungen zum Thema „Classroom-Management“ drei Mal befragt. Die Ergebnisse zeigen, dass Videofälle als kognitiv belastender gegenüber Textfällen empfunden wurden, dagegen die Immersion bei der Videoanalyse und die Freude beim Lernen stärker empfunden wurden als bei der Textanalyse. Ein Zusammenhang zeigte sich zwischen kognitiver Belastung und motivationalen Prozessen beim Lernen. Es wird diskutiert, wie die differenziellen Effekte der Medien der Fallarbeit für den didaktischen Einsatz in der Lehrerbildung genutzt werden können.
+
+### Access to Paper
+
+[Link to Springer Link](https://link.springer.com/content/pdf/10.1007/s11618-015-0631-9.pdf). (should be open access)
+
+### Citation
+
+Syring, M., Bohl, T., Kleinknecht, M., Kuntze, S., Rehm, M., & Schneider, J. (2015). Videos oder Texte in der Lehrerbildung? Effekte unterschiedlicher Medien auf die kognitive Belastung und die motivational-emotionalen Prozesse beim Lernen mit Fällen. _Zeitschrift für Erziehungswissenschaft, 18_(4), 667–685. https://doi.org/10.1007/s11618-015-0631-9

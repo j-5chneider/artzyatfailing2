@@ -1,0 +1,31 @@
+---
+title: (Re)Building Trust? Journals’ Open Science Badges Influence Trust in Scientists.
+author: Jürgen Schneider
+date: '2020-08-14'
+slug: re-building-trust-preprint
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Jürgen Schneider 
+* Tom Rosman 
+* Augustin Kelava 
+* Samuel Merk 
+
+### Abstract
+
+As a response to the replication crisis, reforms call for the implementation of open science standards. In this regard, open science badges are a promising method to signal a study’s adherence to open science practices (OSP). In an experimental study, we investigated whether badges on journal article title pages affect non-scientists’ trust in scientists. Furthermore, we analyzed the moderating role of epistemic beliefs in this regard. We randomly assigned 270 non-scientists to two of three conditions: Badges awarded (visible compliance to OSP), badges not awarded (visible non-compliance to OSP) and no badges (compliance not visible, control condition). Results indicate that badges influence trust in scientists as well as the epistemic beliefs of participants. However, epistemic beliefs did not moderate the effect of badges on trust. In sum, our paper provides support to the notion that badges are an effective means to promote epistemic beliefs and trust in scientists.
+
+### Access to Paper
+
+[Link to PDF](https://doi.org/10.31234/osf.io/43ec2).
+
+
+### Citation
+
+Schneider, J., Rosman, T., Kelava, A., & Merk, S. (2020). _(Re)Building Trust? Journals’ Open Science Badges Influence Trust in Scientists. [Preprint]_. PsyArXiv. https://doi.org/10.31234/osf.io/43ec2
+

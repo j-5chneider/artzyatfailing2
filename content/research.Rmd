@@ -1,0 +1,61 @@
+---
+title: "Research"
+author: "Jürgen Schneider"
+date: 2021-02-16
+---
+
+
+
+## Tübingen Open Science Initiative
+
+
+<div style="justify-content: space-between; display: flex; width: 100%;">
+
+<div style="width:11%;">
+[<img src="../img/logo.png" style="width:100%" />](https://osf.io/pdntj/wiki/home/)
+</div>
+
+<div style="width:88%">
+I am the speaker of the Tübingen Open Science Initiative.  
+We are on our quest to enable and foster open science in Tübingen.  
+Check out our [website](https://osf.io/pdntj/wiki/home/) or [twitter](https://twitter.com/tuebingenosi).
+</div>
+
+</div>
+
+
+## Tools
+
+
+<div style="justify-content: space-between; display: flex; width: 100%;">
+
+<div style="width:32%;">
+[<img src="../img/apc.jpg" style="width:100%" />](https://shiny.jschn.org/apc/)  
+[__APCs - an overview__](https://shiny.jschn.org/apc/)  
+In this app I plot the APCs of four publishers.
+</div>
+
+<div style="width:32%;">
+[<img src="../img/preregrs.jpg" style="width:100%" />](https://github.com/j-5chneider/preregRS)  
+[__{preregRS}__](https://github.com/j-5chneider/preregRS)  
+This is an R Markdown template that supports researchers when preregistering research syntheses.
+</div>
+
+<div style="width:32%;">
+[<img src="../img/base.jpg" style="width:100%" />](https://raw.githack.com/j-5chneider/TuDi-BASE/main/tudi-base.html)  
+[__TüDi-BASE__](https://raw.githack.com/j-5chneider/TuDi-BASE/main/tudi-base.html)  
+On this platform we feature evidence from research syntheses accessible to teachers and teacher educators.
+</div>
+
+</div>
+
+
+## Current Projects
+
+* [__(Re)Buildung Trust?__](https://doi.org/10.17605/OSF.IO/VGBRS)<br />In this project we investigate the effects of open science badges on perceived trustworthiness in journal articles.
+* [__Capturing beliefs on the relation of theory and practice__](https://doi.org/10.17605/OSF.IO/JH6RX)<br />In this project we established and tested an instrument to measure beliefs concerning the relation of theory and practice in the teaching profession.
+* Systematic Review on adaptive teaching
+* Adaptive teaching with tablets (TabletBW)
+* [__Computer-based formative Feedback on writing__](https://doi.org/10.17605/OSF.IO/Q4TU9)<br />A meta-analysis on effects and border conditions
+* [__TPACK self-report assessments__](http://dx.doi.org/10.23668/psycharchives.4226)<br />Another jingle-jangle fallacy? Examining the validity of Technological Pedagogical and Content Knowledge (TPACK) self-report assessments
+* [__MapOSR: Mapping Open Science Research__](https://www.researchgate.net/project/Mapping-Open-Science-Research-A-Systematic-Review-of-Empirical-Studies-on-Open-Science)<br />A Systematic Review of Empirical Studies on Open Science

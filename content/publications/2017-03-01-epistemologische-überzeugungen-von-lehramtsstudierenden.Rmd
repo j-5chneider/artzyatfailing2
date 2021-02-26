@@ -1,0 +1,33 @@
+---
+title: Epistemologische Überzeugungen von Lehramtsstudierenden bezüglich pädagogischen
+  Wissens
+author: Jürgen Schneider
+date: '2017-03-01'
+slug: epistemologische-überzeugungen-von-lehramtsstudierenden
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Samuel Merk
+* Jürgen Schneider
+* Thorsten Bohl
+* Augustin Kelava
+* Marcus Syring
+
+### Abstract
+
+Pädagogisches Wissen gilt als wichtiger Bestandteil der professionellen Kompetenz von (angehenden) Lehrkräften. Epistemologische Überzeugungen (Überzeugungen bzgl. der Natur und Genese wissenschaftlichen Wissens) werden ebenfalls als Bestandteil professioneller Kompetenz verstanden. Motiviert durch aktuelle Entwicklungsfelder der pädagogisch-psychologischen Forschung zu allgemeinen epistemologischen Überzeugungen, untersucht der vorliegende Beitrag in einem experimentellen Design, inwiefern epistemologische Überzeugungen Lehramtsstudierender bezüglich pädagogischen Wissens systematisch über Forschungsgegenstände diverser Subdisziplinen (z. B. Bezugsrahmen-Effekt, Inklusion, Lernen mit Lösungsbeispielen) variieren und welche Effekte verschiedene Quellen des Wissens (Laie, Experte, wiss. Literatur) bzw. die Einbettung des Wissens in schulischen Kontext zeigen. Mehrebenen-(Mehrgruppen-)Strukturgleichungsmodelle, in die 1938 Relativismuseinschätzungen von 323 Lehramtsstudierenden eingingen, zeigen starke Hinweise auf eine deutliche Varianz der epistemologischen Überzeugungen über die verschiedenen Forschungsgegenstände hinweg sowie für eine geringe relativistische Sichtweise des Wissens von „Experten“. Die Einbettung des Wissens in schulischen Kontext zeigte keine signifikanten Effekte. Konsequenzen für die Erfassung spezifischer epistemologischer Überzeugungen sowie Folgerungen für Lehr-Lernprozesse in der Lehrerbildung werden diskutiert.
+
+### Access to Paper
+
+[Link to PDF](https://www.waxmann.com/artikelART102895).
+
+
+### Citation
+
+Merk, S., Schneider, J., Kelava, A., Syring, M., & Bohl, T. (2017). Epistemologische überzeugungen von Lehramtsstudierenden bezüglich pädagogischen Wissens: Gegenstands-, Quellen- und Kontextspezifität. _Journal for Educational Research Online, 9_(1), 169–189.
+

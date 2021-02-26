@@ -1,0 +1,35 @@
+---
+title: 'Unterricht analysieren und reflektieren mit unterschiedlichen Fallmedien:
+  Ist Video wirklich besser als Text?'
+author: Jürgen Schneider
+date: '2016-12-01'
+slug: ist-video-wirklich-besser-als-text
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+
+* Jürgen Schneider
+* Thorsten Bohl
+* Marc Kleinknecht
+* Markus Rehm
+* Sebastian Kuntze
+* Marcus Syring
+
+### Abstract
+
+Zentralen Herausforderungen  der  Lehrerbildung,  wie  die  Theorie-Praxis-Relationierung  und der  Umgang  mit  unterrichtlicher  Komplexität, wird in  der  Lehrerbildung zunehmend  mit fallbasiertem Lernen begegnet. In den letzten Jahren zeigte sich dabei ein deutlicher Trend zum Medium Video gegenüber Textfällen. Wir untersuchten die Effekte video- und textfallbasierter Lehr-Lernarrangements  auf  die  Quantität  thematisch  selektierter  Unterrichtssituationen,  die Qualität der Interpretation dieser Situationen und die Verwendung theoretischer Prinzipien mit Bezug   zum Classroom   Management. Im   Pre-Post-Design der   Studie bearbeiteten   645 Lehramtsstudierende aus 21 curricular identischen Seminaren entweder Video- oder Textfälle zum Thema Classroom Management. Im Pre-Posttest zeigte sich lediglich für die Qualität der Interpretation ein  Unterschied  zwischen  den  Medien, und  zwar zugunsten  des  Einsatzes  von Textfällen. Überdies zeigte sich ein starker Einfluss der Einstellung der Dozierenden gegenüber der Art der Fallarbeit auf die Verwendung theoretischer Prinzipien ermitteln. Sowohl Text- wie auch Videofälle sind für den Einsatz in der ersten Phase der Lehrerbildung geeignet, wobei für Novizen Textfälle möglicherweise vorteilhafter sind. 
+
+### Access to Paper
+
+[Link to PDF on Researchgate](https://www.researchgate.net/publication/312147683_Unterricht_analysieren_und_reflektieren_mit_unterschiedlichen_Fallmedien_Ist_Video_wirklich_besser_als_Text).  
+[Link to PDF on SocArXiv](https://doi.org/10.31235/osf.io/bdsjq).
+
+
+### Citation
+
+Kohler, B., Prinz, E., Schneider, J., & Syring, M. (2015). Ein neuer Blick auf die Praxis: Selbst- und Fremdreflexion mithilfe von Unterrichtsvideos. _Schulmagazin 5-10, 1_, 11–14.

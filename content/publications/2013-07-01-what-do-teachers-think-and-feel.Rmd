@@ -1,0 +1,31 @@
+---
+title: What do teachers think and feel when analyzing videos of themselves and other
+  teachers teaching?
+author: Jürgen Schneider
+date: '2013-07-01'
+slug: what-do-teachers-think-and-feel
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Marc Kleinknecht
+* Jürgen Schneider
+
+### Abstract
+
+Despite the widespread use of classroom videos in teacher professional development, little is known about the specific effects of various types of videos on teachers' cognitive, emotional, and motivational processes. This study investigates the processes experienced by 10 eighth-grade mathematics teachers while they analyzed videos of their own or other teachers' classroom instruction. Findings indicate that teachers viewing videos of other teachers are more deeply engaged in analysis of problematic events. Counterintuitively, observing videos of others corresponds to higher emotional–motivational involvement. Results support the conclusion that observing one's own videos requires more prearrangement and scaffolding than observing others' videos.
+
+### Access to Paper
+
+Two versions: 
+
+* Paper [on journal's webpage](https://doi.org/10.1016/j.tate.2013.02.002).  
+* Accessible version [on researchgate](https://www.researchgate.net/publication/257245788_What_do_teachers_think_and_feel_when_analyzing_videos_of_themselves_and_other_teachers_teaching).
+
+### Citation
+
+Kleinknecht, M., & Schneider, J. (2013). What do teachers think and feel when analyzing videos of themselves and other teachers teaching? _Teaching and Teacher Education, 33_, 13–23. https://doi.org/10.1016/j.tate.2013.02.002

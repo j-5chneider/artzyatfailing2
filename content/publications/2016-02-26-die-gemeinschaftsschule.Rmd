@@ -1,0 +1,34 @@
+---
+title: 'Die Gemeinschaftsschule in Baden-Württemberg: Situation und Sicht der Akteurinnen
+  und Akteure. Propensity-Score-Analysen differenzieller Entwicklungsmilieus.'
+author: Jürgen Schneider
+date: '2016-02-26'
+slug: die-gemeinschaftsschule
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Andrea, Batzel-Kremer
+* Marcus, Pietsch
+* Samuel, Merk
+* Thorsten, Bohl
+* Eva, Prinz
+* Jürgen, Schneider
+
+### Abstract
+
+Die Einführung der Gemeinschaftsschule in Baden-Württemberg: Abschlussbericht der wissenschaftlichen Begleitforschung (WissGem).
+
+### Access to Paper
+
+[Link to PDF on Researchgate](https://www.researchgate.net/publication/303702701_Die_Gemeinschaftsschule_in_Baden-Wurttemberg_Situation_und_Sicht_der_Akteurinnen_und_Akteure_Propensity-Score-Analysen_differenzieller_Entwicklungsmilieus).
+
+
+### Citation
+
+Batzel-Kremer, A., Pietsch, M., Merk, S., Bohl, T., Prinz, E., & Schneider, J. (2016). Die Gemeinschaftsschule in Baden-Württemberg: Situation und Sicht der Akteurinnen und Akteure. Propensity-Score-Analysen differenzieller Entwicklungsmilieus. In T. Bohl & A. Wacker (Hrsg.), _Die Einführung der Gemeinschaftsschule in Baden-Württemberg: Abschlussbericht der wissenschaftlichen Begleitforschung (WissGem)_ (1. Aufl., S. 47–72). Waxmann.
+

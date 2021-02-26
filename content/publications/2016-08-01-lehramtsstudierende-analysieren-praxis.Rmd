@@ -1,0 +1,30 @@
+---
+title: 'Lehramtsstudierende analysieren Praxis: Ein Vergleich der Effekte unterschiedlicher
+  fallbasierter Lehr-Lern-Arrangements'
+author: Jürgen Schneider
+date: '2016-08-01'
+slug: lehramtsstudierende-analysieren-praxis
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Jürgen Schneider
+
+
+### Abstract
+
+Die Verbindungen von Theorie und Praxis zu ermöglichen ist eine zentrale Herausforderung der Lehrerbildung. Fallbasiertes Lernen und die Analyse von Praxis stellen Möglichkeiten dar, dieser Herausforderung zu begegnen. Einer Interventionsstudie untersuchte, wie unterschiedliche Lehr-Lern-Modelle und Medien die Analyse von Praxis bei Lehramtsstudierenden fördern. In einem 2x2 Design wurden hierfür N=645 Lehramtsstudierende (geclustert in 21 Seminare) unterschiedlichen fallbasierten Arrangements zugeordnet. Dabei variierte zum einen das Medium zur Darstellung des Falles (Video vs. Text), zum anderen das Lehr-Lern-Modell des fallbasierten Arrangements (problembasiert vs. instruktional) zwischen den einzelnen Seminaren. Anhand eines webbasierten Pre-Posttests wurde erhoben, wie Lehramtsstudierende Unterrichtspraxis analysieren. Vier Codiererinnen und Codierer beurteilten, ob in den Analysen bestimmte Situationen thematisch selektiert wurden, inwiefern die Studierenden die Situationen erörterten und ob eine Verbindung von Theorie und Praxis stattfand. Die Ergebnisse zeigen, dass die Erörterung von Situationen durch Seminare mit Textfällen und in problembasierten Seminaren besser gefördert werden konnten als in videobasierten oder instruktionalen Seminaren. Eine Typisierung der Fallanalysen zeigte, dass sich vier unterschiedliche Klassen unterscheiden ließen. Auf die profundeste Art der Erörterung wirkten sich besonders problembasierte Seminare positiv aus und solche Seminare, in denen Textfälle zum Einsatz kamen. Weiterhin zeigte sich im Rahmen des Feldstudiendesigns, dass die Einstellungen von Dozierenden gegenüber der zu lehrenden Fallarbeit, einen bedeutenden Zusammenhang mit den Theorie-Praxis-Verbindungen der Studierenden aufwiesen.
+
+### Access to Paper
+
+[Link to PDF](http://dx.doi.org/10.15496/publikation-13255).
+
+
+### Citation
+
+Schneider, J. (2016). _Lehramtsstudierende analysieren Praxis: Ein Vergleich der Effekte unterschiedlicher fallbasierter Lehr-Lern-Arrangements_ [Thesis]. http://dx.doi.org/10.15496/publikation-13255
+

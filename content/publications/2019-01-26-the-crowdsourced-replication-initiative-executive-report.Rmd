@@ -1,0 +1,35 @@
+---
+title: 'The Crowdsourced Replication Initiative: Investigating Immigration and Social
+  Policy Preferences. Executive Report.'
+author: Jürgen Schneider
+date: '2019-01-26'
+slug: the-crowdsourced-replication-initiative-executive-report
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Nate Breznau 
+* Eike Mark Rinke 
+* Alexander Wuttke
+* ...
+* Jürgen Schneider
+* ...
+
+### Abstract
+
+In an era of mass migration, social scientists, populist parties and social movements raise concerns over the future of immigration-destination societies. What impacts does this have on policy and social solidarity? Comparative cross-national research, relying mostly on secondary data, has findings in different directions. There is a threat of selective model reporting and lack of replicability. The heterogeneity of countries obscures attempts to clearly define data-generating models. P-hacking and HARKing lurk among standard research practices in this area.
+This project employs crowdsourcing to address these issues. It draws on replication, deliberation, meta-analysis and harnessing the power of many minds at once. The Crowdsourced Replication Initiative carries two main goals, (a) to better investigate the linkage between immigration and social policy preferences across countries, and (b) to develop crowdsourcing as a social science method. The Executive Report provides short reviews of the area of social policy preferences and immigration, and the methods and impetus behind crowdsourcing plus a description of the entire project. Three main areas of findings will appear in three papers, that are registered as PAPs or in process.
+
+### Access to Paper
+
+[Link to PDF](https://doi.org/10.31235/osf.io/6j9qb).
+
+
+### Citation
+
+Breznau, N., Rinke, E. M., Wuttke, A., Adem, M., Adriaans, J., Edelmann, A., Alvarez Benjumea, A., Andersen, H., Auer, D., Azevedo, F., Bahnsen, O., Balzer, D., Bauer, G., Bauer, P., Baumann, M., Baute, S., Benoit, V., Berning, C., Bernauer, J., … Żółtak, T. (2019). _The Crowdsourced Replication Initiative: Investigating Immigration and Social Policy Preferences. Executive Report._ https://doi.org/10.31235/osf.io/6j9qb
+

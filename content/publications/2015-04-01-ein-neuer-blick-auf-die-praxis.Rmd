@@ -1,0 +1,29 @@
+---
+title: 'Ein neuer Blick auf die Praxis: Selbst- und Fremdreflexion mithilfe von Unterrichtsvideos'
+author: Jürgen Schneider
+date: '2015-04-01'
+slug: ein-neuer-blick-auf-die-praxis
+categories: []
+tags: []
+comments: no
+images: ~
+---
+
+### Authors
+
+* Marc Kleinknecht
+* Jürgen Schneider
+* Marcus Syring
+
+### Abstract
+
+Unterrichtsvideos sind zu einem vielfach verwendeten Lern- und Reflexionsmedium in der Lehrpersonenaus- und -fortbildung geworden, wobei aktuelle Projekte unterschiedliche Ziele verfolgen und die didaktisch-methodischen Ansätze variantenreich sind. Der Beitrag fokussiert die Förderung der Wahrnehmungs- und Analysekompetenz durch Unterrichtsvideos und präsentiert Forschungsbefunde zu instruktionalen und problembasierten Lehr-Lern-Konzepten sowie zum Einsatz der Videotypen «eigenes Unterrichtsvideo» und «fremdes Unterrichtsvideo». Dabei wird besonders darauf eingegangen, wie emotional-motivationale Prozesse die Analyse von Unterrichtsvideos beeinflussen. Auf der Basis der Befunde werden vier Empfehlungen für die Planung videobasierter Seminare in der Lehrpersonenaus- und -fortbildung formuliert.
+
+### Access to Paper
+
+![](../../img/Kohler, Prinz et al. 2015 - Ein neuer Blick.pdf){width=100% height=500px}
+
+
+### Citation
+
+Kohler, B., Prinz, E., Schneider, J., & Syring, M. (2015). Ein neuer Blick auf die Praxis: Selbst- und Fremdreflexion mithilfe von Unterrichtsvideos. _Schulmagazin 5-10, 1_, 11–14.

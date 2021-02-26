@@ -1,10 +1,11 @@
 ---
 aliases:
 - about-us
+- about-hugo
 - contact
 author:
-  name: Jürgen Schneider
-date: "2020-05-30"
+  name: Hugo Authors
+date: "2014-04-09"
 title: About
 ---
 
