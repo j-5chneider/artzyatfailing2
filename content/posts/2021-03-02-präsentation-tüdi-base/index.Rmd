@@ -1,0 +1,31 @@
+---
+title: 'Präsentation: TüDi-BASE Projekt [Zwischenstand]'
+author: Jürgen Schneider
+date: '2021-03-02'
+slug: präsentation-tüdi-base
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+
+Eine Präsentation zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), die ich im Forschungskolloquium des Insituts für Empirische Unterrichts- und Schulforschung der PH Karlsruhe gehalten habe.  
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.  
+Link zur <a href="https://raw.githack.com/j-5chneider/TuDi-BASE/main/dissemination/TuDi-BASE_Karlsruhe.html">Präsentation auch hier</a>.  
+  
+[_Auf die Präsentation klicken und Pfeiltasten zum blättern benutzen._]
+<iframe
+   src="https://raw.githack.com/j-5chneider/TuDi-BASE/main/dissemination/TuDi-BASE_Karlsruhe.html"
+   name="tuedibase_in_a_box"
+   style="
+    transform: scale(0.7);
+    transform-origin: left top 0;
+    width:1024px;
+    height:600px;">
+
+<p>Ihr Browser kann leider keine eingebetteten Frames anzeigen:
+Sie können die eingebettete Seite über den folgenden Verweis aufrufen: 
+<a href="https://raw.githack.com/j-5chneider/TuDi-BASE/main/dissemination/TuDi-BASE_Karlsruhe.html">Präsentation TüDi-BASE</a>
+</p>
+</iframe>
