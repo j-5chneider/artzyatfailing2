@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+# added because bookdown told me so
+.DS_Store
+Thumbs.db
+/public/
+/resources/
