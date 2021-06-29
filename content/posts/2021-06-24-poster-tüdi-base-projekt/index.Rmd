@@ -1,0 +1,29 @@
+---
+title: 'Poster: TüDi-BASE Projekt'
+author: Jürgen Schneider
+date: '2021-06-24'
+slug: poster-tüdi-base-projekt
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+Ein Poster zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), das ich auf dem QLB Workshop "Lehrkräftebildung nach dem pandemiebedingten Digital Turn" präsentiert habe.  
+  
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.  
+Link zum <a href="http://dx.doi.org/10.23668/psycharchives.4940">Poster auch hier</a>.  
+
+![](../../../../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
+![](../../../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
+![](../../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
+
+![](../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
+
+![](../../../img/Kohler, Prinz et al. 2015 - Ein neuer Blick.pdf){width=100% height=500px}
+
+![](../../../img/image.png){width=100% height=500px}
+
+![](../../img/image.png){width=100% height=500px}
+
+![](../img/image.png){width=100% height=500px}
