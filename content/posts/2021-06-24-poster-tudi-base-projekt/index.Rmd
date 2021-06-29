@@ -15,16 +15,4 @@ Ein Poster zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), das ic
 Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.  
 Link zum <a href="http://dx.doi.org/10.23668/psycharchives.4940">Poster auch hier</a>.  
 
-![](../../../../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
-![](../../../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
-![](../../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
-
-![](../img/QLB_digitalTurn_Schneider_web.pdf){width=100%}
-
-![](../../../img/Kohler, Prinz et al. 2015 - Ein neuer Blick.pdf){width=100% height=500px}
-
-![](../../../img/image.png){width=100% height=500px}
-
-![](../../img/image.png){width=100% height=500px}
-
-![](../img/image.png){width=100% height=500px}
+![](../../../../img/QLB_digitalTurn_Schneider_web.pdf){width=100% height=500px}
