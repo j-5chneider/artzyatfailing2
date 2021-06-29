@@ -2,50 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://jschn.org/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jschn.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://jschn.org/about/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <title>Poster: TüDi-BASE Projekt</title>
+      <link>/2021/06/24/poster-tudi-base-projekt/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jschn.org/about/</guid>
-      <description>               google scholar            researchgate            website    </description>
+      <guid>/2021/06/24/poster-tudi-base-projekt/</guid>
+      <description>Ein Poster zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), das ich auf dem QLB Workshop “Lehrkräftebildung nach dem pandemiebedingten Digital Turn” präsentiert habe.
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.
+Link zum Poster auch hier.</description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>https://jschn.org/2020/05/22/test/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <title>Presentation: preregRS guides preregistration</title>
+      <link>/2021/05/20/presentation-preregrs-guides-preregistration/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jschn.org/2020/05/22/test/</guid>
-      <description>ajnväaejbb#poea gejgergker</description>
+      <guid>/2021/05/20/presentation-preregrs-guides-preregistration/</guid>
+      <description>In this presentation on the Research Synthesis &amp;amp; Big Data Conference I introduced preregRS: An R Markdown template to preregister research syntheses. The template is available in RStudio after installing the R package preregRS. It is intended to guide the preregistration process and enable compatibility (e.g. to include analysis code, results, embed PDFs, plots).
+Click this link to download the presentation.
+[Click on the presentation and use the arrow keys to go to the next slide.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://jschn.org/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Präsentation: TüDi-BASE Projekt [Zwischenstand]</title>
+      <link>/2021/03/02/pr%C3%A4sentation-t%C3%BCdi-base/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jschn.org/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/2021/03/02/pr%C3%A4sentation-t%C3%BCdi-base/</guid>
+      <description>  Eine Präsentation zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), die ich im Forschungskolloquium des Insituts für Empirische Unterrichts- und Schulforschung der PH Karlsruhe gehalten habe.
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.
+Link zur Präsentation auch hier.
+[Auf die Präsentation klicken und Pfeiltasten zum blättern benutzen.]  Ihr Browser kann leider keine eingebetteten Frames anzeigen: Sie können die eingebettete Seite über den folgenden Verweis aufrufen: Präsentation TüDi-BASE  </description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://jschn.org/publications/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jschn.org/publications/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <guid>/research/</guid>
+      <description>Tübingen Open Science Initiative 
+ I am the speaker of the Tübingen Open Science Initiative.
+We are on our quest to enable and foster open science in Tübingen.
+Check out our website or twitter.
+   Tools 
+APCs - an overview
+In this app I plot the APCs of four publishers.
+ 
+{preregRS}
+This is an R Markdown template that supports researchers when preregistering research syntheses.</description>
+    </item>
+    
+    <item>
+      <title>Less quantity, more quality? Student teachers’ analyses of classroom videos and the influence of problem-based and direct instructional teaching approaches</title>
+      <link>/publications/less-quantity-more-quality/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/less-quantity-more-quality/</guid>
+      <description>Authors  Jürgen Schneider Marc Kleinknecht Thorsten Bohl Sebastian Kuntze Markus Rehm Marcus Syring   Abstract This paper investigates the effects of different case-based learning approaches (problem-based vs. direct instructional) and the instructors’ attitude on student teachers’ analyses of classroom management. We assigned 638 student teachers from 21 identical professional development courses to one of the two case-based learning conditions. Student teachers’ analyses were evaluated on selective attention, reflective thought, and theory-practice integrations in a pre-post-design.</description>
+    </item>
+    
+    <item>
+      <title>(Re)Building Trust? Journals’ Open Science Badges Influence Trust in Scientists.</title>
+      <link>/publications/re-building-trust-preprint/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/re-building-trust-preprint/</guid>
+      <description>Authors  Jürgen Schneider Tom Rosman Augustin Kelava Samuel Merk   Abstract As a response to the replication crisis, reforms call for the implementation of open science standards. In this regard, open science badges are a promising method to signal a study’s adherence to open science practices (OSP). In an experimental study, we investigated whether badges on journal article title pages affect non-scientists’ trust in scientists. Furthermore, we analyzed the moderating role of epistemic beliefs in this regard.</description>
+    </item>
+    
+    <item>
+      <title>New Preprint: Effects of Open Science Badges on Trust in Scientists</title>
+      <link>/2020/08/14/new-preprint-effects-of-open-science-badges/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/14/new-preprint-effects-of-open-science-badges/</guid>
+      <description>Access Check out the preprint on PsyArXiv or the project on the Open Science Framework!
+ Abstract The Replication Crisis diminishes trust in empirical sciences and with it the perceived value of science (Lupia, 2018). Open Science Practices (i.a. open data, open analysis script, open materials) are an increasingly popular approach to deal with challenges in replication and to rebuilt trust (Geukes, Schönbrodt, Utesch, Geukes, &amp;amp; Back, 2016). First investigations could, however, deliver no evidence toward the effects of Open Science Practices (OSP) on trustworthiness (Wingen, Berkessel, &amp;amp; Englich, 2019).</description>
+    </item>
+    
+    <item>
+      <title>Relationierung von Theorie Und Praxis: Was Bedeutet Dieses Konzept Für Die Begleitung von Praktika in Der Lehrerinnen- Und Lehrerbildung?</title>
+      <link>/publications/relationierung-von-theorie-und-praxis/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/relationierung-von-theorie-und-praxis/</guid>
+      <description>Authors  Jürgen Schneider Colin Cramer   Abstract Im Beitrag wird das Konzept der Relationierung von Theorie und Praxis ausgehend vom strukturtheoretischen Professionsansatz diskutiert. Dabei wird das Konzept mit der Hybridität zweier Praxen verbunden und dessen Konsequenzen für die Lehrer*innenbildung werden nachgezeichnet. Im Sinne der Einlassung und Distanz auf beide Praxen eröffnet das Konzept eine konstruktive Perspektive auf den Umgang mit Wissenschaftspraxis und Schulpraxis im Rahmen der Qualifikation von Lehrpersonen – besonders in schulpraktischen Phasen.</description>
+    </item>
+    
+    <item>
+      <title>The Crowdsourced Replication Initiative: Investigating Immigration and Social Policy Preferences. Executive Report.</title>
+      <link>/publications/the-crowdsourced-replication-initiative-executive-report/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/the-crowdsourced-replication-initiative-executive-report/</guid>
+      <description>Authors  Nate Breznau Eike Mark Rinke Alexander Wuttke … Jürgen Schneider …   Abstract In an era of mass migration, social scientists, populist parties and social movements raise concerns over the future of immigration-destination societies. What impacts does this have on policy and social solidarity? Comparative cross-national research, relying mostly on secondary data, has findings in different directions. There is a threat of selective model reporting and lack of replicability.</description>
+    </item>
+    
+    <item>
+      <title>Rezension von: Barth, Victoria L.: Professionelle Wahrnehmung von Störungen Im Unterricht</title>
+      <link>/publications/rezension-von-barth-victoria/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/rezension-von-barth-victoria/</guid>
+      <description> Authors  Jürgen Schneider   Abstract Rezension von: Barth, Victoria L.: Professionelle Wahrnehmung von Störungen Im Unterricht. Wiesbaden: Springer VS Verlag Für Sozialwissenschaften 2017
+ Access to Paper Link to PDF.
+ Citation Schneider, J. (2018). Rezension von: Barth, Victoria L.: Professionelle Wahrnehmung von Störungen im Unterricht. Wiesbaden: Springer VS Verlag für Sozialwissenschaften 2017. Erziehungswissenschaftliche Revue, 17(2). http://www.klinkhardt.de/ewr/978365816370.html
+ </description>
     </item>
     
   </channel>

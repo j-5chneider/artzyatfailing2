@@ -2,21 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on </title>
-    <link>https://jschn.org/publications/</link>
+    <link>/publications/</link>
     <description>Recent content in Publications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://jschn.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://jschn.org/publications/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Less quantity, more quality? Student teachers’ analyses of classroom videos and the influence of problem-based and direct instructional teaching approaches</title>
+      <link>/publications/less-quantity-more-quality/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jschn.org/publications/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <guid>/publications/less-quantity-more-quality/</guid>
+      <description>Authors  Jürgen Schneider Marc Kleinknecht Thorsten Bohl Sebastian Kuntze Markus Rehm Marcus Syring   Abstract This paper investigates the effects of different case-based learning approaches (problem-based vs. direct instructional) and the instructors’ attitude on student teachers’ analyses of classroom management. We assigned 638 student teachers from 21 identical professional development courses to one of the two case-based learning conditions. Student teachers’ analyses were evaluated on selective attention, reflective thought, and theory-practice integrations in a pre-post-design.</description>
+    </item>
+    
+    <item>
+      <title>(Re)Building Trust? Journals’ Open Science Badges Influence Trust in Scientists.</title>
+      <link>/publications/re-building-trust-preprint/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/re-building-trust-preprint/</guid>
+      <description>Authors  Jürgen Schneider Tom Rosman Augustin Kelava Samuel Merk   Abstract As a response to the replication crisis, reforms call for the implementation of open science standards. In this regard, open science badges are a promising method to signal a study’s adherence to open science practices (OSP). In an experimental study, we investigated whether badges on journal article title pages affect non-scientists’ trust in scientists. Furthermore, we analyzed the moderating role of epistemic beliefs in this regard.</description>
+    </item>
+    
+    <item>
+      <title>Relationierung von Theorie Und Praxis: Was Bedeutet Dieses Konzept Für Die Begleitung von Praktika in Der Lehrerinnen- Und Lehrerbildung?</title>
+      <link>/publications/relationierung-von-theorie-und-praxis/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/relationierung-von-theorie-und-praxis/</guid>
+      <description>Authors  Jürgen Schneider Colin Cramer   Abstract Im Beitrag wird das Konzept der Relationierung von Theorie und Praxis ausgehend vom strukturtheoretischen Professionsansatz diskutiert. Dabei wird das Konzept mit der Hybridität zweier Praxen verbunden und dessen Konsequenzen für die Lehrer*innenbildung werden nachgezeichnet. Im Sinne der Einlassung und Distanz auf beide Praxen eröffnet das Konzept eine konstruktive Perspektive auf den Umgang mit Wissenschaftspraxis und Schulpraxis im Rahmen der Qualifikation von Lehrpersonen – besonders in schulpraktischen Phasen.</description>
+    </item>
+    
+    <item>
+      <title>The Crowdsourced Replication Initiative: Investigating Immigration and Social Policy Preferences. Executive Report.</title>
+      <link>/publications/the-crowdsourced-replication-initiative-executive-report/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/the-crowdsourced-replication-initiative-executive-report/</guid>
+      <description>Authors  Nate Breznau Eike Mark Rinke Alexander Wuttke … Jürgen Schneider …   Abstract In an era of mass migration, social scientists, populist parties and social movements raise concerns over the future of immigration-destination societies. What impacts does this have on policy and social solidarity? Comparative cross-national research, relying mostly on secondary data, has findings in different directions. There is a threat of selective model reporting and lack of replicability.</description>
+    </item>
+    
+    <item>
+      <title>Rezension von: Barth, Victoria L.: Professionelle Wahrnehmung von Störungen Im Unterricht</title>
+      <link>/publications/rezension-von-barth-victoria/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/rezension-von-barth-victoria/</guid>
+      <description> Authors  Jürgen Schneider   Abstract Rezension von: Barth, Victoria L.: Professionelle Wahrnehmung von Störungen Im Unterricht. Wiesbaden: Springer VS Verlag Für Sozialwissenschaften 2017
+ Access to Paper Link to PDF.
+ Citation Schneider, J. (2018). Rezension von: Barth, Victoria L.: Professionelle Wahrnehmung von Störungen im Unterricht. Wiesbaden: Springer VS Verlag für Sozialwissenschaften 2017. Erziehungswissenschaftliche Revue, 17(2). http://www.klinkhardt.de/ewr/978365816370.html
+ </description>
+    </item>
+    
+    <item>
+      <title>Pre-service teachers’ perceived value of general pedagogical knowledge for practice: Relations with epistemic beliefs and source beliefs</title>
+      <link>/publications/pre-service-teachers-perceived-value-of-general-pedagogical-knowledge/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/pre-service-teachers-perceived-value-of-general-pedagogical-knowledge/</guid>
+      <description>Authors  Samuel Merk Tom Rosman Julia Rueß Marcus Syring Jürgen Schneider   Abstract Pre-service teachers tend to devalue general pedagogical knowledge (GPK) as a valid source for deriving successful teaching practices. The present study investigated beliefs about knowledge sources and epistemic beliefs as predictors for students’ perceived value of GPK. Three pre-registered hypotheses were tested. We expected beliefs that GPK originates from scientific sources to entail a devaluation of GPK (Hypothesis 1).</description>
+    </item>
+    
+    <item>
+      <title>Epistemologische Überzeugungen von Lehramtsstudierenden bezüglich pädagogischen Wissens</title>
+      <link>/publications/epistemologische-%C3%BCberzeugungen-von-lehramtsstudierenden/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/epistemologische-%C3%BCberzeugungen-von-lehramtsstudierenden/</guid>
+      <description>Authors  Samuel Merk Jürgen Schneider Thorsten Bohl Augustin Kelava Marcus Syring   Abstract Pädagogisches Wissen gilt als wichtiger Bestandteil der professionellen Kompetenz von (angehenden) Lehrkräften. Epistemologische Überzeugungen (Überzeugungen bzgl. der Natur und Genese wissenschaftlichen Wissens) werden ebenfalls als Bestandteil professioneller Kompetenz verstanden. Motiviert durch aktuelle Entwicklungsfelder der pädagogisch-psychologischen Forschung zu allgemeinen epistemologischen Überzeugungen, untersucht der vorliegende Beitrag in einem experimentellen Design, inwiefern epistemologische Überzeugungen Lehramtsstudierender bezüglich pädagogischen Wissens systematisch über Forschungsgegenstände diverser Subdisziplinen (z.</description>
+    </item>
+    
+    <item>
+      <title>Unterricht analysieren und reflektieren mit unterschiedlichen Fallmedien: Ist Video wirklich besser als Text?</title>
+      <link>/publications/ist-video-wirklich-besser-als-text/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/ist-video-wirklich-besser-als-text/</guid>
+      <description>Authors  Jürgen Schneider Thorsten Bohl Marc Kleinknecht Markus Rehm Sebastian Kuntze Marcus Syring   Abstract Zentralen Herausforderungen der Lehrerbildung, wie die Theorie-Praxis-Relationierung und der Umgang mit unterrichtlicher Komplexität, wird in der Lehrerbildung zunehmend mit fallbasiertem Lernen begegnet. In den letzten Jahren zeigte sich dabei ein deutlicher Trend zum Medium Video gegenüber Textfällen. Wir untersuchten die Effekte video- und textfallbasierter Lehr-Lernarrangements auf die Quantität thematisch selektierter Unterrichtssituationen, die Qualität der Interpretation dieser Situationen und die Verwendung theoretischer Prinzipien mit Bezug zum Classroom Management.</description>
+    </item>
+    
+    <item>
+      <title>Lehramtsstudierende analysieren Praxis: Ein Vergleich der Effekte unterschiedlicher fallbasierter Lehr-Lern-Arrangements</title>
+      <link>/publications/lehramtsstudierende-analysieren-praxis/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/lehramtsstudierende-analysieren-praxis/</guid>
+      <description>Authors  Jürgen Schneider   Abstract Die Verbindungen von Theorie und Praxis zu ermöglichen ist eine zentrale Herausforderung der Lehrerbildung. Fallbasiertes Lernen und die Analyse von Praxis stellen Möglichkeiten dar, dieser Herausforderung zu begegnen. Einer Interventionsstudie untersuchte, wie unterschiedliche Lehr-Lern-Modelle und Medien die Analyse von Praxis bei Lehramtsstudierenden fördern. In einem 2x2 Design wurden hierfür N=645 Lehramtsstudierende (geclustert in 21 Seminare) unterschiedlichen fallbasierten Arrangements zugeordnet. Dabei variierte zum einen das Medium zur Darstellung des Falles (Video vs.</description>
+    </item>
+    
+    <item>
+      <title>Die Gemeinschaftsschule in Baden-Württemberg: Situation und Sicht der Akteurinnen und Akteure. Propensity-Score-Analysen differenzieller Entwicklungsmilieus.</title>
+      <link>/publications/die-gemeinschaftsschule/</link>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/die-gemeinschaftsschule/</guid>
+      <description>Authors  Andrea, Batzel-Kremer Marcus, Pietsch Samuel, Merk Thorsten, Bohl Eva, Prinz Jürgen, Schneider   Abstract Die Einführung der Gemeinschaftsschule in Baden-Württemberg: Abschlussbericht der wissenschaftlichen Begleitforschung (WissGem).
+ Access to Paper Link to PDF on Researchgate.
+ Citation Batzel-Kremer, A., Pietsch, M., Merk, S., Bohl, T., Prinz, E., &amp;amp; Schneider, J. (2016). Die Gemeinschaftsschule in Baden-Württemberg: Situation und Sicht der Akteurinnen und Akteure. Propensity-Score-Analysen differenzieller Entwicklungsmilieus. In T. Bohl &amp;amp; A.</description>
     </item>
     
   </channel>

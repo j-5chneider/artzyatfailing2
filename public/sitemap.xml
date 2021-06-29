@@ -3,72 +3,146 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jschn.org/about/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <loc>/2021/06/24/poster-tudi-base-projekt/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/posts/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/2020/05/22/test/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <loc>/2021/05/20/presentation-preregrs-guides-preregistration/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/2021/03/02/pr%C3%A4sentation-t%C3%BCdi-base/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/2015/07/23/hello-r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/research/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/publications/less-quantity-more-quality/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/publications/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/publications/re-building-trust-preprint/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/2020/08/14/new-preprint-effects-of-open-science-badges/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/publications/relationierung-von-theorie-und-praxis/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/publications/about/</loc>
+    <loc>/publications/the-crowdsourced-replication-initiative-executive-report/</loc>
+    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/rezension-von-barth-victoria/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/pre-service-teachers-perceived-value-of-general-pedagogical-knowledge/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/epistemologische-%C3%BCberzeugungen-von-lehramtsstudierenden/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/ist-video-wirklich-besser-als-text/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/lehramtsstudierende-analysieren-praxis/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/die-gemeinschaftsschule/</loc>
+    <lastmod>2016-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/fallarbeit-als-angebot/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/how-problem-based-or-direct-instruction/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/videos-oder-texte-in-der-lehrerbildung/</loc>
+    <lastmod>2015-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/ein-neuer-blick-auf-die-praxis/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/varianten-videobasierten-lehrens-und-lernens/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/publications/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>/publications/what-do-teachers-think-and-feel/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jschn.org/series/</loc>
+    <loc>/publications/rezension-haag-l-streber/</loc>
+    <lastmod>2013-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/rezension-von-schrader-hohmann-hartz/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

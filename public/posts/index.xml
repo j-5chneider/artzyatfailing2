@@ -1,79 +1,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on </title>
-        <link>https://jschn.org/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://jschn.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>test</title>
-            <link>https://jschn.org/2020/05/22/test/</link>
-            <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+            <title>Poster: TüDi-BASE Projekt</title>
+            <link>/2021/06/24/poster-tudi-base-projekt/</link>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
             
-            <guid>https://jschn.org/2020/05/22/test/</guid>
-            <description>ajnväaejbb#poea gejgergker</description>
+            <guid>/2021/06/24/poster-tudi-base-projekt/</guid>
+            <description>Ein Poster zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), das ich auf dem QLB Workshop “Lehrkräftebildung nach dem pandemiebedingten Digital Turn” präsentiert habe.
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.
+Link zum Poster auch hier.</description>
             <content type="html"><![CDATA[
 
+<div id="TOC">
 
-<p>ajnväaejbb#poea
-gejgergker</p>
+</div>
+
+<p>Ein Poster zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), das ich auf dem QLB Workshop “Lehrkräftebildung nach dem pandemiebedingten Digital Turn” präsentiert habe.</p>
+<p>Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.<br />
+Link zum <a href="http://dx.doi.org/10.23668/psycharchives.4940">Poster auch hier</a>.</p>
+<p><embed src="../../../../img/QLB_digitalTurn_Schneider_web.pdf" style="width:100.0%" />
+<embed src="../../../img/QLB_digitalTurn_Schneider_web.pdf" style="width:100.0%" />
+<embed src="../../img/QLB_digitalTurn_Schneider_web.pdf" style="width:100.0%" /></p>
+<p><embed src="../img/QLB_digitalTurn_Schneider_web.pdf" style="width:100.0%" /></p>
+<p><embed src="../../../img/Kohler,%20Prinz%20et%20al.%202015%20-%20Ein%20neuer%20Blick.pdf" style="width:100.0%" height="500" /></p>
+<p><img src="../../../img/image.png" style="width:100.0%" height="500" /></p>
+<p><img src="../../img/image.png" style="width:100.0%" height="500" /></p>
+<p><img src="../img/image.png" style="width:100.0%" height="500" /></p>
 ]]></content>
         </item>
         
         <item>
-            <title>Hello R Markdown</title>
-            <link>https://jschn.org/2015/07/23/hello-r-markdown/</link>
-            <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+            <title>Presentation: preregRS guides preregistration</title>
+            <link>/2021/05/20/presentation-preregrs-guides-preregistration/</link>
+            <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
             
-            <guid>https://jschn.org/2015/07/23/hello-r-markdown/</guid>
-            <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+            <guid>/2021/05/20/presentation-preregrs-guides-preregistration/</guid>
+            <description>In this presentation on the Research Synthesis &amp;amp; Big Data Conference I introduced preregRS: An R Markdown template to preregister research syntheses. The template is available in RStudio after installing the R package preregRS. It is intended to guide the preregistration process and enable compatibility (e.g. to include analysis code, results, embed PDFs, plots).
+Click this link to download the presentation.
+[Click on the presentation and use the arrow keys to go to the next slide.</description>
             <content type="html"><![CDATA[
 
+<div id="TOC">
 
-<div id="r-markdown" class="section level1">
-<h1>R Markdown</h1>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>You can embed an R code chunk like this:</p>
-<pre class="r"><code>summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
 </div>
-<div id="including-plots" class="section level1">
-<h1>Including Plots</h1>
-<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<pre class="r"><code>par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
-  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
-  init.angle = -50, border = NA
-)</code></pre>
-<div class="figure"><span id="fig:pie"></span>
-<img src="/posts/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">
-Figure 1: A fancy pie chart.
+
+<p>In this presentation on the <a href="https://conference-service.com/ressyn-bigdata/xpage.html?xpage=231&amp;lang=en">Research Synthesis &amp; Big Data Conference</a> I introduced <a href="https://github.com/j-5chneider/preregRS"><em>preregRS</em></a>: An R Markdown template to preregister research syntheses. The template is available in RStudio after installing the R package <a href="https://github.com/j-5chneider/preregRS"><em>preregRS</em></a>. It is intended to guide the preregistration process and enable compatibility (e.g. to include analysis code, results, embed PDFs, plots).</p>
+<p>Click this link to <a href="https://github.com/j-5chneider/preregRS-jupyter/blob/main/slides/2021-05-20_Frankfurt_Research-Synthesis.html">download the presentation</a>.</p>
+<p>[<em>Click on the presentation and use the arrow keys to go to the next slide.</em>]
+<iframe
+   src="https://raw.githack.com/j-5chneider/preregRS-jupyter/main/slides/2021-05-20_Frankfurt_Research-Synthesis.html#1"
+   name="preregrs_in_a_box"
+   style="
+    transform: scale(0.7);
+    transform-origin: left top 0;
+    width:1024px;
+    height:600px;"></p>
+<p>
+Your browser can’t display embedded slides:
+You can view the content over:
+<a href="https://raw.githack.com/j-5chneider/preregRS-jupyter/main/slides/2021-05-20_Frankfurt_Research-Synthesis.html#1">Präsentation TüDi-BASE</a>
 </p>
+</iframe>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Präsentation: TüDi-BASE Projekt [Zwischenstand]</title>
+            <link>/2021/03/02/pr%C3%A4sentation-t%C3%BCdi-base/</link>
+            <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+            
+            <guid>/2021/03/02/pr%C3%A4sentation-t%C3%BCdi-base/</guid>
+            <description>  Eine Präsentation zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), die ich im Forschungskolloquium des Insituts für Empirische Unterrichts- und Schulforschung der PH Karlsruhe gehalten habe.
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.
+Link zur Präsentation auch hier.
+[Auf die Präsentation klicken und Pfeiltasten zum blättern benutzen.]  Ihr Browser kann leider keine eingebetteten Frames anzeigen: Sie können die eingebettete Seite über den folgenden Verweis aufrufen: Präsentation TüDi-BASE  </description>
+            <content type="html"><![CDATA[
+
+<div id="TOC">
+
 </div>
+
+<p>Eine Präsentation zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), die ich im Forschungskolloquium des Insituts für Empirische Unterrichts- und Schulforschung der PH Karlsruhe gehalten habe.<br />
+Das Projekt befindet sich aktuell noch im Aufbau, ich werde an dieser Stelle immer wieder Updates posten.<br />
+Link zur <a href="https://raw.githack.com/j-5chneider/TuDi-BASE/main/dissemination/TuDi-BASE_Karlsruhe.html">Präsentation auch hier</a>.</p>
+<p>[<em>Auf die Präsentation klicken und Pfeiltasten zum blättern benutzen.</em>]
+<iframe
+   src="https://raw.githack.com/j-5chneider/TuDi-BASE/main/dissemination/TuDi-BASE_Karlsruhe.html"
+   name="tuedibase_in_a_box"
+   style="
+    transform: scale(0.7);
+    transform-origin: left top 0;
+    width:1024px;
+    height:600px;"></p>
+<p>
+Ihr Browser kann leider keine eingebetteten Frames anzeigen:
+Sie können die eingebettete Seite über den folgenden Verweis aufrufen:
+<a href="https://raw.githack.com/j-5chneider/TuDi-BASE/main/dissemination/TuDi-BASE_Karlsruhe.html">Präsentation TüDi-BASE</a>
+</p>
+</iframe>
+]]></content>
+        </item>
+        
+        <item>
+            <title>New Preprint: Effects of Open Science Badges on Trust in Scientists</title>
+            <link>/2020/08/14/new-preprint-effects-of-open-science-badges/</link>
+            <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/2020/08/14/new-preprint-effects-of-open-science-badges/</guid>
+            <description>Access Check out the preprint on PsyArXiv or the project on the Open Science Framework!
+ Abstract The Replication Crisis diminishes trust in empirical sciences and with it the perceived value of science (Lupia, 2018). Open Science Practices (i.a. open data, open analysis script, open materials) are an increasingly popular approach to deal with challenges in replication and to rebuilt trust (Geukes, Schönbrodt, Utesch, Geukes, &amp;amp; Back, 2016). First investigations could, however, deliver no evidence toward the effects of Open Science Practices (OSP) on trustworthiness (Wingen, Berkessel, &amp;amp; Englich, 2019).</description>
+            <content type="html"><![CDATA[
+
+<div id="TOC">
+
+</div>
+
+<div id="access" class="section level3">
+<h3>Access</h3>
+<p>Check out the <a href="https://doi.org/10.31234/osf.io/43ec2">preprint on PsyArXiv</a> or the <a href="http://doi.org/10.17605/OSF.IO/VGBRS">project on the Open Science Framework</a>!</p>
+</div>
+<div id="abstract" class="section level3">
+<h3>Abstract</h3>
+<p>The Replication Crisis diminishes trust in empirical sciences and with it the perceived value of science (Lupia, 2018). Open Science Practices (i.a. open data, open analysis script, open materials) are an increasingly popular approach to deal with challenges in replication and to rebuilt trust (Geukes, Schönbrodt, Utesch, Geukes, &amp; Back, 2016). First investigations could, however, deliver no evidence toward the effects of Open Science Practices (OSP) on trustworthiness (Wingen, Berkessel, &amp; Englich, 2019). The study investigated the effect on a discipline level (psychology) with an abstract description of OSP. Within the ongoing discussion about incentives for OSP (e.g. badges), we want to shift the focus from discipline level to concrete individual journal articles and consider epistemic beliefs of readers to play a moderating role (Merk &amp; Rosman, 2018): Will visible OSP (vs. not visible vs. visibly non-OSP) foster perceived trustworthiness when reading journal articles of empirical studies? Will multiplistic epistemic beliefs moderate the relationship between OSP and trustworthiness?</p>
+<p>The design will include three conditions: visible Open Science Practices (visOSP), Practices not visible (nonvis) and visible non-Open Science Practices (nonOSP). Two of the conditions are randomized within person. Realizing all three conditions within person would highlight the variation between conditions as too obvious and thus undermine blinding of subjects.
+visOSP condition: Subjects receive a title page of an empirical study (Title, Abstract, Keywords, Introduction, …) together with three Open Science badges. The badges are explained using hints in style of speech bubbles and indicate that the authors engaged in the OSP open data, open analysis script and open materials.
+nonvis condition: Subjects receive a title page of an empirical study (Title, Abstract, Keywords, Introduction, …) with no further information on Open Science, reflecting a “standard” journal article.
+nonOSP condition: Subjects receive a title page of an empirical study (Title, Abstract, Keywords, Introduction, …) together with three Open Science badges. The badges are explained using hints in style of speech bubbles and indicate that the authors did not engage in the OSP open data, open analysis script and open materials. As participants are exposed to more than one condition, we create all three conditions for three different empirical studies (topics). This way we avoid participants to see one study topic twice under different conditions, which would undermine the blinding.
+Measured variables are perceives trustworthiness: We apply the Muenster Epistemic Trustworthiness Inventory (Hendriks, Kienhues, &amp; Bromme, 2015) with all three subscales. However, as dependent variable we will only employ the subscale integrity. The other two subscales are used for further exploratory analyses. Topic-specific multiplism: We apply the subscale of topic specific multiplism from Merk et al. (2017) Topic-specific consistency: We apply the three item-measure from Merk et al. (2017), Treatment check: We test the perceived openness/ transparency of the empirical study. Additional small set of demographic variables will be assessed.</p>
 </div>
 ]]></content>
         </item>

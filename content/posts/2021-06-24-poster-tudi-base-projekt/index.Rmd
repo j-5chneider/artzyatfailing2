@@ -2,12 +2,13 @@
 title: 'Poster: TüDi-BASE Projekt'
 author: Jürgen Schneider
 date: '2021-06-24'
-slug: poster-tüdi-base-projekt
+slug: poster-tudi-base-projekt
 categories: []
 tags: []
 toc: no
 images: ~
 ---
+
 
 Ein Poster zur Bibliothek aufbereiteter Forschungssynthesen (TüDi-BASE), das ich auf dem QLB Workshop "Lehrkräftebildung nach dem pandemiebedingten Digital Turn" präsentiert habe.  
   
