@@ -1,0 +1,12 @@
+---
+title: 'New Preprint: Do Open Science Badges Increase Trust in Researchers'
+author: Jürgen Schneider
+date: '2021-08-02'
+slug: new-preprint-do-open-science-badges-increase-trust-in-researchers
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+![](../../../../img/badge.pdf){width=100% height=500px}
