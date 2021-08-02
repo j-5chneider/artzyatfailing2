@@ -1,0 +1,12 @@
+---
+title: 'New Preprint: Using authentic representations of practice in teacher education'
+author: Jürgen Schneider
+date: '2021-07-27'
+slug: new-preprint-using-authentic-representations-di-pbl
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+![](../../../../img/di-pbl_analyze.pdf){width=100% height=500px}

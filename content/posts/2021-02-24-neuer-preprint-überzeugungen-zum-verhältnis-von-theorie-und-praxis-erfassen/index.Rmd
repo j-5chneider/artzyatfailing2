@@ -1,0 +1,13 @@
+---
+title: 'Neuer Preprint: Überzeugungen zum Verhältnis von Theorie und Praxis erfassen'
+author: Jürgen Schneider
+date: '2021-02-24'
+slug: neuer-preprint-überzeugungen-zum-verhältnis-von-theorie-und-praxis-erfassen
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+
+![](../../../../img/uzvvtp-las.pdf){width=100% height=500px}

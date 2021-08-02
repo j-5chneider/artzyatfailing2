@@ -1,0 +1,12 @@
+---
+title: 'New Preprint: Facilitating Open Science Practices for Research Syntheses'
+author: Jürgen Schneider
+date: '2021-03-14'
+slug: new-preprint-facilitating-open-science-practices-for-rs
+categories: []
+tags: []
+toc: no
+images: ~
+---
+
+![](../../../../img/preregRS.pdf){width=100% height=500px}
