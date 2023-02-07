@@ -117,7 +117,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.knit\\.md$"
   # Social icons
   [[params.social]]
     name = "email"
-    url  = "juergen.schneider@uni-tuebingen.de"
+    url  = "ju.schneider@dipf.de"
 
   [[params.social]]
     name = "twitter"
@@ -138,13 +138,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.knit\\.md$"
   [[params.social]]
     name = "github"
     url  = "https://github.com/j-5chneider"
+    
+
 
 
 [languages]
   [languages.en]
     subtitle  = "jürgen schneider // educational scientist"
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span> <span><a href="/about/">Impressum</a></li>'
 
 [menu]
   [[menu.main]]
